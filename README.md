@@ -1,6 +1,6 @@
 Exercício POO - Banda Escolar
 
-Nome: Edson Fernando Piacente Barbarini
+Nome: Edson Fernando Piacente Barbarini e Lucas Volpe 
 
 Descrição
 
